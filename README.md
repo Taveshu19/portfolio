@@ -1,4 +1,4 @@
-# Oi, eu sou o Gustavo
+# Gustavo Oliveira — Portfólio de automação e IA
 
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho com dados e automação desde 2024. Hoje meu trabalho é pegar processos que dependem de gente digitando e conferindo coisa à mão e transformar em sistema, usando IA onde ela realmente ajuda.
 
@@ -9,6 +9,8 @@ O único projeto com código aberto é a [Plataforma de Medição](https://githu
 📫 gustavossouza0109@gmail.com · [LinkedIn](https://www.linkedin.com/in/gustavo-oliveira-5b0a28321/)
 
 ## Projetos
+
+Para começar: veja a **leitura de documentos com IA** e o **assistente de consultas** para conhecer minhas implementações com modelos de linguagem. A **plataforma de notas fiscais** mostra a automação completa em produção. Para avaliar o código, explore a **Plataforma de Medição de Empreiteiros**.
 
 **[Plataforma de notas fiscais](casos/01-plataforma-notas-fiscais.md)**
 O sistema que leva a nota do e-mail do fornecedor até a aprovação. Em produção desde julho de 2026, usado todo dia pela equipe de contas a pagar, em três áreas da empresa.
@@ -28,7 +30,16 @@ Vários agentes de IA trabalhando em paralelo pelo terminal, e como eu organizo 
 **[Plataforma de Medição de Empreiteiros](casos/06-plataforma-de-medicao.md)**
 Projeto pessoal em Next.js e Supabase, com código aberto e testes.
 
-## Com o que trabalho
+## Projetos que posso desenvolver
+
+- Leitura e validação de documentos com IA, com revisão de exceções.
+- Integrações entre APIs, planilhas, e-mail e sistemas de gestão.
+- Automações de processos administrativos e financeiros.
+- Assistentes de consulta a dados e aplicações web para fluxos de aprovação.
+
+Para conversar sobre um projeto: [LinkedIn](https://www.linkedin.com/in/gustavo-oliveira-5b0a28321/) ou [e-mail](mailto:gustavossouza0109@gmail.com).
+
+## Tecnologias
 
 IA: Claude, Gemini e GPT em produção, function calling, saída estruturada, MCP, Claude Code, Codex, Antigravity, OpenCode e Hermes.
 Banco e backend: PostgreSQL e Supabase, SQL Server, MySQL, Python, TypeScript.
